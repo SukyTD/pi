@@ -1,0 +1,51 @@
+{
+  "room":   "Trap dacic",
+  "author": "Suky & WiBla",
+  "icon":   "https://cloud.githubusercontent.com/assets/8460503/15720582/b32c006e-283d-11e6-81f7-40277d01a36d.png",
+  "css":    "https://rawgit.com/aalinnfs/thenation/master/style.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": true,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "#5BF",
+    "cohost":           "#58F",
+    "manager":          "#E15",
+    "bouncer":          "#F45",
+    "rdj":              "#F95",
+    "subscriber":       "#FB3",
+    "silversubscriber": null,
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       null,
+    "playback":         null,
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_host.png",
+    "cohost":           "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_cohost.png",
+    "manager":          "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_manager.png",
+    "bouncer":          "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_bouncer.png",
+    "rdj":              "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_dj.png",
+    "subscriber":       "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/crown.png",
+    "silversubscriber": null
+  },
+  "autocomplete": [],
+  "emotes": {
+    "pls": "http://image.noelshack.com/fichiers/2014/36/1409765752-pls.jpg"
+  },
+  "badlist": [], /*{
+    "username": "Elizabeth777",
+    "id":       13995573,
+    "reason":   "Play only undertale's soundtracks and polute/flood the chat."
+  }*/
+}
